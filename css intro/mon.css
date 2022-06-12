@@ -1,0 +1,17 @@
+h1 {
+    text-align: center;
+    letter-spacing: 10px;
+    font-family: Arial;
+    font-size: 80px;
+    font-weight: 700;
+    text-decoration: #ff6700 underline wavy;
+}
+
+a {
+    text-decoration: none;
+}
+
+p {
+    line-height: 2;
+    /* font-family: big carlson, Franklin Gothic Medium; */
+}

@@ -1,0 +1,19 @@
+body {
+    color: purple;
+}
+
+h1 {
+    color: blue;
+}
+
+/* section {
+    color: aqua;
+} */
+
+/* form {
+    color: #f77f00;
+} */
+
+button {
+    color: inherit;
+}
