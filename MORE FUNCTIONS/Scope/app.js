@@ -59,3 +59,32 @@
 // console.log(totalEggs);
 // collectEggs();
 // console.log(totalEggs);
+// let radius = 8;
+// if (radius > 0) {
+//     const PI = 3.1415;
+//     let msg = 'HIII'
+// }
+
+// console.log (radius);
+// console.log(msg);
+
+// for (let i = 0; i < 5; i++) {
+//     let msg = "ASKLDJAKLS";
+//     console.log(msg);
+// }
+// console.log(msg);
+// console.log(i)
+
+function bankRobbery(){
+    const heroes = ['Spiderman', 'Wolverine', 'Black Panther', 'Batwoman'];
+    function cryForHelp(){
+        let color = 'purple';
+        function inner(){
+            for (let hero of heroes) {
+                console.log(`PLEASE HELP US, ${hero.toUpperCase()}`);
+            }
+        }
+        inner();
+    }
+    cryForHelp();
+}
